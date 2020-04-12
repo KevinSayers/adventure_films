@@ -5,6 +5,9 @@
 | Title                                                      | Length           | Link                                                    |
 | -----------------------------------------------------------|:----------------:| -------------------------------------------------------:|
 |  The Whole Enchilada, Moab, UT                             | 6:00             | <https://youtu.be/Ana6az4zGvo>                          |
+|  Mt. Kilimanjaro & Mt. Kenya                               | 30:34            | <https://youtu.be/cRFxH0tzGk8>                          |
+|  Iceland Traverse                                          | 25:59            | <https://youtu.be/b53UzDjtw-s>                          |
+|  How to Buy a Mountain Bike                                | 5:24             | <https://youtu.be/yotOZVELSMc>                          |
 
 ## Rock climbing
 
