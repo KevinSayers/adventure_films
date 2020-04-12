@@ -17,5 +17,6 @@
 | Title                               | Length           | Link                                                    |
 | ------------------------------------|:----------------:| -------------------------------------------------------:|
 |  Pedal to peaks | Norway            | 8:25             | https://youtu.be/OSNNk6s3iio                            |
+|  Sufferfest                         | 21:12            | https://youtu.be/ri4CbP_E7oo                            |
 
 
