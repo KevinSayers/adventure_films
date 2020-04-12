@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-section {width: 80%;} 
+section {
+	width: 80%;
+	background-color: #92a8d1;
+} 
