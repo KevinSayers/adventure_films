@@ -8,6 +8,8 @@
 |  Mt. Kilimanjaro & Mt. Kenya                               | 30:34            | <https://youtu.be/cRFxH0tzGk8>                          |
 |  Iceland Traverse                                          | 25:59            | <https://youtu.be/b53UzDjtw-s>                          |
 |  How to Buy a Mountain Bike                                | 5:24             | <https://youtu.be/yotOZVELSMc>                          |
+| A Dog's Tale SHIMANO | 9:12 | <https://youtu.be/Ub697GgOE8M> |
+| The White Rim Trail // 100 Miles of Canyonlands in a Day | 14:20 | <https://youtu.be/Eo47Q7DJWdI> |
 
 ## Rock climbing
 
@@ -30,12 +32,19 @@
 |  CANDIDE THOVEX FEW WORDS                                  | 59:00            | <https://youtu.be/cpi2fc5vfNs>                          |
 |  This is Home                                              | 46:23            | <https://youtu.be/E3zFEhrcAvU>                          |
 |  Frozen in Time                                            | 15:36            | <https://youtu.be/nEKPl1brVHs>                          |
+|  Markus Eder's The Ultimate Run - The Most Insane Ski Run Ever Imagined | 10:00 | <https://youtu.be/fbqHK8i-HdA>                        |
+| WAVY | 43:58 | <https://youtu.be/aaeBN_JYkcA> |
+| Summit Fever - The FIFTY | Mt. St. Elias - Climbing & Skiing a Mythical Mountain | 36:28 | <https://youtu.be/AvwOJSHSe5I> |
+| The FIFTY - Line 33/50 - Mt Whitney with Alex Honnold - Road Bikes, Climbing and Terrible Skiing | 21:23 | <https://youtu.be/YDtAzUnGekg> |
+| Squamish Chief North Gully Ski Descent | 2:26 | <https://youtu.be/TB3MiOay_gs> |
+
 
 ## Ice climbing
 
 | Title                                                      | Length           | Link                                                    |
 | -----------------------------------------------------------|:----------------:| -------------------------------------------------------:|
 |  Desert Ice                                                | 11:51            | <https://youtu.be/Xp83UFuKxyE>                          |
+| Black Diamond Presents: Will Gadd Takes On Helmcken Falls with Natural Gear | 9:06 | <https://youtu.be/ydkJ1zG9r4c> |
 
 
 ## Mountaineering
