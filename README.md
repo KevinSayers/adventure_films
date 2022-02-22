@@ -34,7 +34,7 @@
 |  Frozen in Time                                            | 15:36            | <https://youtu.be/nEKPl1brVHs>                          |
 |  Markus Eder's The Ultimate Run - The Most Insane Ski Run Ever Imagined | 10:00 | <https://youtu.be/fbqHK8i-HdA>                        |
 | WAVY | 43:58 | <https://youtu.be/aaeBN_JYkcA> |
-| Summit Fever - The FIFTY | Mt. St. Elias - Climbing & Skiing a Mythical Mountain | 36:28 | <https://youtu.be/AvwOJSHSe5I> |
+| Summit Fever - The FIFTY - Mt. St. Elias - Climbing & Skiing a Mythical Mountain | 36:28 | <https://youtu.be/AvwOJSHSe5I> |
 | The FIFTY - Line 33/50 - Mt Whitney with Alex Honnold - Road Bikes, Climbing and Terrible Skiing | 21:23 | <https://youtu.be/YDtAzUnGekg> |
 | Squamish Chief North Gully Ski Descent | 2:26 | <https://youtu.be/TB3MiOay_gs> |
 
